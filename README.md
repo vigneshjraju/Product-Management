@@ -67,7 +67,6 @@ A RESTful API built using **Node.js, Express, MongoDB**, and **Multer** for hand
 
 ```env
 PORT=8000
-MONGODB_URI=your_mongodb_uri
 JWT_SECRET=your_secret
 ```
 
