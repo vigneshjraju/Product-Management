@@ -77,7 +77,7 @@ JWT_SECRET=your_secret
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repository-url.git
+   git clone git@github.com:vigneshjraju/Product-Management.git
    ```
 
 2. Install dependencies:
@@ -91,7 +91,7 @@ JWT_SECRET=your_secret
 
 4. Start the server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 5. The server will be running at `http://localhost:8000`.
